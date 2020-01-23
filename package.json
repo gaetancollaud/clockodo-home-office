@@ -1,0 +1,16 @@
+{
+  "name": "clockodo-absences",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home_office.js",
+  "scripts": {
+    "home": "node home_office.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clockodo": "^3.1.5",
+    "https": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
